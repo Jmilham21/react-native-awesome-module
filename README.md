@@ -1,6 +1,6 @@
 # react-native-awesome-module
 
-testing
+testing a small change
 
 ## Installation
 
