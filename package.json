@@ -1,5 +1,5 @@
 {
-  "name": "react-native-awesome-module",
+  "name": "jmilham-react-awesome-module",
   "version": "0.1.0",
   "description": "testing",
   "main": "lib/commonjs/index",
@@ -156,5 +156,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "example": "example"
   }
 }
