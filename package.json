@@ -1,6 +1,6 @@
 {
   "name": "jmilham-react-awesome-module",
-  "version": "0.1.1-beta.0",
+  "version": "0.1.1-beta.1",
   "description": "testing",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
